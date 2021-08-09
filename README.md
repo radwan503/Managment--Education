@@ -28,9 +28,8 @@
 ✔Used font awesome icon<br> 
 ✔Google Font <br>
 ✔Google Map <br>
-✔Smooth animation 
-✔W3C Validated Code  
-✔And Much More!
+✔Smooth animation<br>   
+✔And Much More!<br>
 
 #Source & Credits<br>
 
